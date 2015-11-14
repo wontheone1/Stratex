@@ -37,6 +37,7 @@ II. Scences.
       1) Single play attack: campaign missions, let's say there are 20 levels.
       2) PvP attack : When attacking offline user, you fight with AI.(Later on the defending user comes online,
         he/she should be able to take the control over)
+
         a) Siege attack: When you win you can steal up to 10 percent of their land, gold, population.
           Defender is buffed with walls, defense towers, moat, in addition to their army.
         b) Field attack: When you win you can steal up to 5 percent of their land, gold, population. No buff to each side.
