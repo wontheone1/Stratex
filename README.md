@@ -1,7 +1,7 @@
 # Stratex
 
 I. Features.
-  1. Turn based: turn accumulates 1 turn per 10 minutes. So if you are online after 12 hours of using all your turn, you have 72 turns accumulated. You can use it as fast as you want, can take 5 minutes to spend 100 turns. (when building or researching etc... you can spend 100 turns on the task instantly) battle costs 3 turns.
+  1. Turn based: turn accumulates 1 turn per 10 minutes. So if you are online after 12 hours of using all your turn, you have 72 turns accumulated. You can use it as fast as you want, can take 5 minutes to spend 100 turns or 1 hour. (when building or researching etc... you can spend 100 turns on the task instantly) battle costs 3 turns. Maximum 200 turns can be accumulated.
   2. When you go to siege or regular combat, HOMM series or Vantage master tactics style combat scene fire up. Vantage style combat is more tactics focused and personally think is better. But could be harder to implement. 
   3. The general aim is to go high up ranks as both an individual and a guild and enjoy the feeling of attacking other players. But when researched every magic, there is an armageddon spell. When casted, all players in server notified someone's using the spell. In 12 hours of using the spell, if the caster succeeds in surviving(No protection hours granted for armageddon caster), the armageddon is casted successfully. When 5 consecutive armageddon is casted, the server resets, the world ends and new world begins. When stopped, armageddon counter resets. If the server resets, the casters and highrankers when server resets go to 'the hall of fame'.
   4. Every units have one of 4 elements or empty elements. Desirably every faction has to have balanced types of elements.
@@ -12,14 +12,14 @@ I. Features.
     
     c. When attacked by a unit or spell it is weak to, takes 50% more damages.
 
-I. Factions.
+II. Factions.
   1. Ascendant: Haven-like faction. Angels, Cavarlies, Priests, Knights...
   2. Nether: Necropolis-inferno like faction. 
   3. Verdant: Elvish-druid faction.
   4. Eradication: Dungeon-like faction, Dragons, Hydras, Chimeras, Medusa,
   5. Warmonger: Stronghold-like faction, Cyclops, Ogres(shrek), Orcs.
 
-II. Scences.
+III. Scences.
   1. Main Scene
     a. Top-middle : username and ranking, net power. Remaining Protection hour.(After losing defense, 
       granted 12 hours protection)
@@ -82,6 +82,10 @@ II. Scences.
         b) So you settup priority of armies when invaded. Default is sorted by net power.
 
         c) You can also set AI algorithms. The battle style.
+        
+      4) View replay
+      
+        a) See the battles you attacked or happened while you were away.
 
     i. Bottom center: etc...
 
@@ -95,7 +99,14 @@ II. Scences.
 
       5) etc...
 
-  2. Combat scene
-    a. no words are needed here. just play HOMM or vantage master tactics. or some TRPG TBS games.
+  2. Combat scene : no words are needed here. just play HOMM or vantage master tactics. or some TRPG TBS games.
+
+IV. Monetization
+  1. We could sell premium account. After launching and also before launching through crowd funding.
+    a. Perks: No ads on the game. Maximum turns can be accumulated 300 hours. After losing defence, get 15 hours protection.
+  2. For unpaid users, put not so irritating amounts of ads.
+  3. 1 week turn speed boost, player gets turns twice as fast.
+  4. As only one hero participate at a battle, the number of heroes doesn't affect game balance. But we could sell more heroes slot for hero collectors.
+  5. Can sell kingdom slot allowing up to 3 kingdoms with one account. 
 
 A web game from team GameX
