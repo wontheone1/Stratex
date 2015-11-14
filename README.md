@@ -7,7 +7,9 @@ I. Features.
   4. Every units have one of 4 elements or empty elements. Desirably every faction has to have balanced types of elements.
  
     a. Empty elements : No weakness to any elements.
+
     b. Fire is weak to water, water is weak to earth, earth is weak to wind, wind is weak to Fire
+    
     c. When attacked by a unit or spell it is weak to, takes 50% more damages.
 
 I. Factions.
