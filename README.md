@@ -5,10 +5,9 @@ I. Features.
   2. When you go to siege or regular combat, HOMM series or Vantage master tactics style combat scene fire up. Vantage style combat is more tactics focused and personally think is better. But could be harder to implement. 
   3. The general aim is to go high up ranks as both an individual and a guild and enjoy the feeling of attacking other players. But when researched every magic, there is an armageddon spell. When casted, all players in server notified someone's using the spell. In 12 hours of using the spell, if the caster succeeds in surviving(No protection hours granted for armageddon caster), the armageddon is casted successfully. When 5 consecutive armageddon is casted, the server resets, the world ends and new world begins. When stopped, armageddon counter resets. If the server resets, the casters and highrankers when server resets go to 'the hall of fame'.
   4. Every units have one of 4 elements or empty elements. Desirably every faction has to have balanced types of elements.
+ 
     a. Empty elements : No weakness to any elements.
-
     b. Fire is weak to water, water is weak to earth, earth is weak to wind, wind is weak to Fire
-    
     c. When attacked by a unit or spell it is weak to, takes 50% more damages.
 
 I. Factions.
